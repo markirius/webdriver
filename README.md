@@ -5,6 +5,6 @@ python webdriver.py
 ```
 
 **recommends**
-*firefox
-*python3
-*selenium
+*firefox*
+*python3*
+*selenium*
